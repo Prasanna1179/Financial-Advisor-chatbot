@@ -16,11 +16,6 @@ Description: our task is Build an AI financial advisor bot that assists users wi
 
 ---
 
-### 💻 Chat Interface 🤖
-<img src="https://github.com/user-attachments/assets/eeca094e-1ee8-428c-a4e5-17777a6e24bc" width="800" alt="Project Screenshot">
-
-## 🌟 Key Features
-
 [Rest of the document remains exactly the same...]
 ## 🌟 Key Features
 
